@@ -1,0 +1,1 @@
+This folder contains the invoices generated with the help of the software.
