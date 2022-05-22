@@ -1,2 +1,5 @@
 # ask-billing-software
 CBSE Class XII Project: ASK Retail Billing Software
+
+(NEEDED FILES) directory contains the folder ASK-BILLING-S-W which is to be added under the C drive for the project to function smoothly as it contains the data files needed in the project software.
+(SOURCE-CODE) directory contains the source code files of the project.
