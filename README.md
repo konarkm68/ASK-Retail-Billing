@@ -11,7 +11,7 @@ The software has the following features:
 
 This software is a valuable resource for businesses that need to manage their inventory and billing processes efficiently.
 
-## Pre-requisites:
+## Pre-Requisites:
 <ol>
   <li>Modules needed: matplotlib, gmail, fpdf, prettytable, ttkwidgets, pmw, PySimpleGUI, pillow, numpy,</li>
   <li>(NEEDED FILES)/ASK-BILLING-S-W is to be added under the C drive for the project to function smoothly as it contains the data files needed in the project software.</li>
