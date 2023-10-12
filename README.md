@@ -1,6 +1,7 @@
 # CBSE Class XII Project: ASK Retail Billing Software
 
-The Retail Billing Software GUI is a Python project that uses several Python modules to create a graphical user interface (GUI) for a retail billing system. These modules provide functionality for creating retail invoices for customers, sending emails to customers with their invoice PDFs, generating PDF files, formatting tables, and more.
+<p align='justify'>
+The Retail Billing Software GUI is a Python project that uses several Python modules to create a graphical user interface (GUI) for a retail billing system. These modules provide functionality for creating retail invoices for customers, sending emails to customers with their invoice PDFs, generating PDF files, formatting tables, and more. </p>
 
 The software has the following features:
 
